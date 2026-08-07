@@ -48,7 +48,7 @@ jobs:
 
   build:
  env
-    strategy:
+ env
       matrix:
         configuration: [Debug, Release]
 
