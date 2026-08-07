@@ -47,8 +47,8 @@ on:
 jobs:
 
   build:
- env
- env
+ env:
+ env:
       matrix:
         configuration: [Debug, Release]
 
