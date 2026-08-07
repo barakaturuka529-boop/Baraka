@@ -49,7 +49,7 @@ jobs:
   build:
  env:
  env:
-      matrix:
+github/workflows/dotnet-desktop.yml
         configuration: [Debug, Release]
 
     runs-on: windows-latest  # For a list of available runner types, refer to
