@@ -268,7 +268,7 @@ BarakaTool/
 
 **WhatsApp Business:** 0782700859  
 **Company:** BARAKA TANZANIA  
-**Location:** Tanzania  🇹🇿  
+**Location:** Tanzania 🇹🇿  
 **Available:** 24/7  
 
 ---
